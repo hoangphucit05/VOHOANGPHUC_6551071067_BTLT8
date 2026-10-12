@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <Solution>
   <Project Path="Bai01/Bai01.csproj" />
 </Solution>
+=======
+<Solution>
+  <Project Path="Bai01/Bai01.csproj" />
+</Solution>
+>>>>>>> 75b93fbffc9501bc2ecf327744cdb44e34412d68
